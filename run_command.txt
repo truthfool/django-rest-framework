@@ -1,0 +1,2 @@
+python -m venv environment_name
+python manage.py runserver
